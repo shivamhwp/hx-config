@@ -1,4 +1,4 @@
-theme="kanabox"
+theme="rose_pine"
 
 [editor]
 line-number="relative"
@@ -14,7 +14,7 @@ goto-reference-include-declaration=true
 
 [editor.cursor-shape]
 normal="block"
-insert="bar"
+insert="block"
 select="underline"
 
 
